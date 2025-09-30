@@ -9,3 +9,10 @@ A roadmap to learn TypeScript, including tutorials, exercises, and projects.
 - [TypeScript Crash Course 2021] (https://www.youtube.com/watch?v=4XLM2ZvtnlA)
 - [Learn TypeScript - Full Course for Beginners] (https://www.youtube.com/watch?v=SpwzRDUQ1GI&t=5263s)
 - [TypeScript Tutorial for Beginners] (https://www.youtube.com/watch?v=d56mG7DezGs)
+
+## 2. Design Patterns
+- [Refactoring Guru] (https://refactoring.guru/design-patterns/typescript)
+
+## 3. Exercises/Projects
+
+## 4. Good to know
