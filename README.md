@@ -2,7 +2,7 @@
 
 A roadmap to learn TypeScript, including tutorials, exercises, projects and other relative jazz.
 
-# 1. Basics
+## 1. Basics
 - [TypeScript Official Handbook](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 - [Total TypeScript](https://www.totaltypescript.com)
 - [Understanding TypeScript - Udemy]
