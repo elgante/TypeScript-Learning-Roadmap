@@ -1,6 +1,6 @@
 # TypeScript-Learning-Roadmap
 
-A roadmap to learn TypeScript, including tutorials, exercises, projects and other relative jazz.
+A roadmap to learn TypeScript, including tutorials, exercises, projects and other relevant jazz.
 
 ## 1. Basics
 - [TypeScript Official Handbook](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
@@ -25,3 +25,5 @@ A roadmap to learn TypeScript, including tutorials, exercises, projects and othe
 - [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
   
 ## 6. Good to know
+### GraphQL 
+-[Recipe Backend](https://github.com/elgante/recipe-graphql-backend)
