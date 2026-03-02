@@ -14,6 +14,9 @@ A roadmap to learn TypeScript, including tutorials, exercises, projects and othe
 - [Refactoring Guru](https://refactoring.guru/design-patterns/typescript)
 
 ## 3. Exercises/Projects
+### 3a. GraphQL 
+- [Recipe Backend](https://github.com/elgante/recipe-graphql-backend)
+
  
 ## 4. Vue.js
 - [Vue.js official site](https://vuejs.org/guide/introduction.html)
@@ -25,5 +28,3 @@ A roadmap to learn TypeScript, including tutorials, exercises, projects and othe
 - [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
   
 ## 6. Good to know
-### GraphQL 
--[Recipe Backend](https://github.com/elgante/recipe-graphql-backend)
