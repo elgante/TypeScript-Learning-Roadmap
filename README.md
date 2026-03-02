@@ -22,6 +22,6 @@ A roadmap to learn TypeScript, including tutorials, exercises, projects and othe
 - [Why You Don't Need Vue Scoped CSS !](https://www.youtube.com/watch?v=9WEV51IGSek)
   
 ## 5. React
-- [Every React Concept Explained in 12 Minutes] (https://www.youtube.com/watch?v=wIyHSOugGGw)
+- [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
   
 ## 6. Good to know
