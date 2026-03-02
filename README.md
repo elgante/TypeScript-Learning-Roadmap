@@ -14,7 +14,7 @@ A roadmap to learn TypeScript, including tutorials, exercises, projects and othe
 - [Refactoring Guru](https://refactoring.guru/design-patterns/typescript)
 
 ## 3. Exercises/Projects
-### 3a. GraphQL 
+### 3.1. GraphQL 
 - [Recipe Backend](https://github.com/elgante/recipe-graphql-backend)
 
  
