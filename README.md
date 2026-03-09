@@ -30,3 +30,7 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
 ### 5.1. GraphQL 
 - [Recipe Backend](https://github.com/elgante/recipe-graphql-backend)
 ### 5.2. Next 
+- [Uno Like Card Game](https://github.com/elgante/uno_like_react_next_v1.3):
+  Tech Stack: Next.js, React, Socket.io., TypeScript, CSS Modules, MongoDB, React Context API.
+         
+     
