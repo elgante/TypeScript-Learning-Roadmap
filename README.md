@@ -24,7 +24,7 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
 - [Every React Concept Explained in 12 Minutes](https://www.youtube.com/watch?v=wIyHSOugGGw)
   
 ## 5. Next
-- [Next](https://nextjs.org/docs/pages/getting-started)
+- [Next Documentation](https://nextjs.org/docs/pages/getting-started)
   
 ## 5. Exercises/Projects
 ### 5.1. GraphQL 
