@@ -14,6 +14,7 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
 
 ## 2. Design Patterns
 - [Refactoring Guru](https://refactoring.guru/design-patterns/typescript)
+- [Repository Pattern](https://www.geeksforgeeks.org/system-design/repository-design-pattern/)
 
  
 ## 3. Vue.js
