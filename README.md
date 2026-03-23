@@ -9,7 +9,6 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
 - [TypeScript Crash Course 2021](https://www.youtube.com/watch?v=4XLM2ZvtnlA)
 - [Learn TypeScript - Full Course for Beginners](https://www.youtube.com/watch?v=SpwzRDUQ1GI&t=5263s)
 - [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs)
-- [TypeScript Tutorial for Beginners](https://www.youtube.com/watch?v=d56mG7DezGs)
 - [How to use Async/Await with a Promise in TypeScript ?](https://www.geeksforgeeks.org/typescript/how-to-use-async-await-with-a-promise-in-typescript/)
 
 ## 2. Design Patterns
