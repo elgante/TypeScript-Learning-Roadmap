@@ -33,10 +33,10 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
 ### 6.1. GraphQL 
 - [Recipe Backend](https://github.com/elgante/recipe-graphql-backend)
 ### 6.2. Next 
-- [Uno Like Card Game](https://github.com/elgante/uno_like_react_next_v1.3):
+- [Uno Like Card Game](https://github.com/elgante/uno_like_react_next_v1.3)
   Tech Stack: Next.js, React, Socket.io., TypeScript, CSS Modules, MongoDB, React Context API.
 ### 6.3. Compound Components
-  - [Button Compound Component](https://compound-components-nu.vercel.app/): Tech Stack: React, Native Wind, Tailwind CSS, TypeScript, Vite, React Context API. 
+  - [Button Compound Component](https://compound-components-nu.vercel.app/) Tech Stack: React, Native Wind, Tailwind CSS, TypeScript, Vite, React Context API. 
    
          
      
