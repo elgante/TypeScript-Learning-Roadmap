@@ -38,5 +38,6 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
   - [Button compound component. Demo](https://compound-components-nu.vercel.app/) Tech stack: React, Native Wind, Tailwind CSS, TypeScript, React Context API. 
 ### 6.4. React Native 
  - [React native. Fetching jobs. Demo](https://react-native-jobs-xr2l.vercel.app) Tech stack: Expo, Axios, JS.
+ - [React native. Fetching jobs](https://github.com/elgante/react_native_jobs)
          
      
