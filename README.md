@@ -35,7 +35,7 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
 - [Uno Like Card Game](https://github.com/elgante/uno_like_react_next_v1.3)
   Tech stack: Next.js, React, Socket.io., TypeScript, CSS Modules, MongoDB, React Context API.
 ### 6.3. Compound Components
-  - [Button Compound Component Demo](https://compound-components-nu.vercel.app/) Tech stack: React, Native Wind, Tailwind CSS, TypeScript, React Context API. 
+  - [Button Compound Component. Demo](https://compound-components-nu.vercel.app/) Tech stack: React, Native Wind, Tailwind CSS, TypeScript, React Context API. 
 ### 6.4. React Native 
  - [React native. Fetching jobs. Demo](https://react-native-jobs-xr2l.vercel.app) Tech stack: Expo, Axios, JS.
          
