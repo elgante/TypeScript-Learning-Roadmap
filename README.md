@@ -1,8 +1,19 @@
-# TypeScript-Learning-Roadmap
+# TypeScript-Roadmap
 
 A constantly updated roadmap to learn TypeScript, including tutorials, exercises, projects and other relevant jazz.
+## 0. Projects
+### 0.1. GraphQL 
+- [Recipe backend](https://github.com/elgante/recipe-graphql-backend) Tech stack: TypeScript, GraphQL, Apollo Server, MongoDB, Mongoose. 
+### 0.2. Next 
+- [Uno like card game](https://github.com/elgante/uno_like_react_next_v1.3)
+  Tech stack: Next.js, React, Socket.io., TypeScript, CSS Modules, MongoDB, React Context API.
+### 0.3. Compound Components
+  - [Button compound component. Demo](https://compound-components-nu.vercel.app/) Tech stack: React, Native Wind, Tailwind CSS, TypeScript, React Context API. 
+### 0.4. React Native 
+ - [React native. Fetching jobs. Demo](https://react-native-jobs-xr2l.vercel.app) Tech stack: Expo, Axios, JS.
+ - [React native. Fetching jobs](https://github.com/elgante/react_native_jobs)
 
-## 1. Basics
+## 1. TS
 - [TypeScript official handbook](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 - [Total TypeScript](https://www.totaltypescript.com)
 - [Understanding TypeScript - Udemy]
@@ -28,16 +39,6 @@ A constantly updated roadmap to learn TypeScript, including tutorials, exercises
 ## 5. Next
 - [Next documentation](https://nextjs.org/docs/pages/getting-started)
   
-## 6. Projects/Exercises
-### 6.1. GraphQL 
-- [Recipe backend](https://github.com/elgante/recipe-graphql-backend) Tech stack: TypeScript, GraphQL, Apollo Server, MongoDB, Mongoose. 
-### 6.2. Next 
-- [Uno like card game](https://github.com/elgante/uno_like_react_next_v1.3)
-  Tech stack: Next.js, React, Socket.io., TypeScript, CSS Modules, MongoDB, React Context API.
-### 6.3. Compound Components
-  - [Button compound component. Demo](https://compound-components-nu.vercel.app/) Tech stack: React, Native Wind, Tailwind CSS, TypeScript, React Context API. 
-### 6.4. React Native 
- - [React native. Fetching jobs. Demo](https://react-native-jobs-xr2l.vercel.app) Tech stack: Expo, Axios, JS.
- - [React native. Fetching jobs](https://github.com/elgante/react_native_jobs)
+
          
      
